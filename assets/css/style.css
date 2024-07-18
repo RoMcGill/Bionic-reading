@@ -84,6 +84,17 @@ textarea {
 }
 
 
+#downloadButton{
+    margin: 0 auto;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    color: white;
+    border-radius: 15px;
+    margin-top: 20px;
+
+
+}
+
+
 
 
 #outputText {
